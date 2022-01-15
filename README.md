@@ -1,12 +1,24 @@
-# code-journal
-## Jan 12,2022
-------
-### How to update repo
-1. Make local change 
-2. In Git Bash _cd_ to documents and find repo
-3. In Bash _git status_ 
-4. _git add ._
-5. _git commit -m ""_
-6. _Git push_ 
+## Code journal 
 
-If updated from shared repo, then you need to _git pull_
+
+
+
+
+### How to update Repository 
+
+If you update from a shared repository, then you need to **git pull**
+
+```markdown
+
+# Make your Local Change 
+
+1. In gitbash **cd** to Documents and locate repository 
+2. In bash **git status**
+3. **git add .**
+4. **git commit -m "whatever message"**
+5. **git push**
+
+
+[Link](url) and ![Image](src)
+```
+
