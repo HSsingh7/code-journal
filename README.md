@@ -1,10 +1,10 @@
-## Code journal 
+<h2>Code journal</h2>
 
 
+<h3>Jan 23,2022</h3>
 
+<h4><strong>Goal</strong></h4>
 
-
-### How to update Repository 
 
 If you update from a shared repository, then you need to **git pull**
 
