@@ -69,7 +69,7 @@ p {<br>
   <h2>Use image as a link</h2>
      
      
-  <p>< a href="dbz.io" > <br>
+  <p>< a href="default.asp" > <br>
 < img src="vageta.gif" alt="HTML Example" style="width:42px;height:42px;" ><br>
     < / a ></p>
     
@@ -77,6 +77,13 @@ p {<br>
     
     
   <p>< a href="harjodhsidhu97@gmail.com">Send email< / a ></p>
+    
+    
+  <h4>Use Button as a Link</h4>
+    
+    
+ <p>< button onclick="document.location='default.asp'"> HTML Example< / button ></p>
+    
 
     
       
