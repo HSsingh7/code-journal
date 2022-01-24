@@ -20,13 +20,13 @@
  </ul>
     </p>
    
-If you're only centering one block, use "text-align" property
+<h6>If you're only centering one block, use "text-align" property</h6>
     
     
-< p style="text-align:center" >Example!< /p >
+< p style="text-align:center" >DBZ!< /p >
   
  
-  <h6><strong>Multiple Blocks, use CSS inside < style >< / style ></strong></h6>
+  <h7><strong>Multiple Blocks, use CSS inside</strong> < style >< / style ></h>
 
   
   <p>
@@ -37,7 +37,7 @@ p {<br>
       < / style ></p>
   
       
-  <h7>If you only want some PG centered, create <strong>style class</strong></h7>
+  <h8>If you only want some PG centered, create <strong>style class</strong></h8>
   
       
  <p>
@@ -46,6 +46,14 @@ p {<br>
  text-align: center<br>
 }<br>
    </style></p>
+      
+      
+ <h9>To create a center class</h9>
+      
+      
+ <p>
+      < p class="center">Goku!< / p ></p>
+      
       
       
 
