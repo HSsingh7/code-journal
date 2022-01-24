@@ -13,20 +13,27 @@
 
 <h5><strong>Plan it out</strong></h5>]
 
-
+<p>
  <ul>
   <li>Use the center tags</li>
   <li>< center > < / center ></li>
  </ul>
-# Make your Local Change 
+    </p>
+   
+If you're only centering one block, use "text-align" property
+    
+    
+< p style="text-align:center" >Example!< /p >
+  
+ 
+  <h6><strong>Multiple Blocks, use CSS inside < style >< / style ></strong></h6>
 
-1. In gitbash **cd** to Documents and locate repository 
-2. In bash **git status**
-3. **git add .**
-4. **git commit -m "whatever message"**
-5. **git push**
-
-
-[Link](url) and ![Image](src)
-```
+  
+  <p>
+    < style ><br>
+p {<br>
+ text-align:center<br>
+}<br>
+      < / style ></p>
+  
 
