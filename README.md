@@ -20,7 +20,7 @@
  </ul>
     </p>
    
-<h6>If you're only centering one block, use "text-align" property</h6>
+  <h6><strong>If you're only centering one block, use "text-align" property</strong></h6>
     
     
 < p style="text-align:center" >DBZ!< /p >
@@ -87,4 +87,4 @@ p {<br>
 
     
       
-
+   </section>
