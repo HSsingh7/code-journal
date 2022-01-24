@@ -58,7 +58,26 @@ p {<br>
     
  <section>
    <h1>HTML Links</h1>
+   
+   
    <p><strong>How to add Hyperlinks</strong></p>
-      
+   
+   
+   <p>< a href="url">https://www.funimation.com/v/one-piece/the-judicial-island-full-view-of-enies-lobby< / a ></p>
+   
+     
+  <h2>Use image as a link</h2>
+     
+     
+  <p>< a href="dbz.io" > <br>
+< img src="vageta.gif" alt="HTML Example" style="width:42px;height:42px;" ><br>
+    < / a ></p>
+    
+   <h3>Link to Email Address</h3>
+    
+    
+  <p>< a href="harjodhsidhu97@gmail.com">Send email< / a ></p>
+
+    
       
 
