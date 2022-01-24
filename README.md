@@ -1,6 +1,6 @@
 <h2>Code journal</h2>
 
-
+<section>
 <h3>Jan 23,2022</h3>
 
 
@@ -53,7 +53,12 @@ p {<br>
       
  <p>
       < p class="center">Goku!< / p ></p>
-      
+      </section>
+ 
+    
+ <section>
+   <h1>HTML Links</h1>
+   <p><strong>How to add Hyperlinks</strong></p>
       
       
 
