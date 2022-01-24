@@ -3,13 +3,21 @@
 
 <h3>Jan 23,2022</h3>
 
+
 <h4><strong>Goal</strong></h4>
 
 
-If you update from a shared repository, then you need to **git pull**
+<p>
+  How to center text using HTML<br>
+  or use CSS</p>
 
-```markdown
+<h5><strong>Plan it out</strong></h5>]
 
+
+ <ul>
+  <li>Use the center tags</li>
+  <li>< center > < / center ></li>
+ </ul>
 # Make your Local Change 
 
 1. In gitbash **cd** to Documents and locate repository 
