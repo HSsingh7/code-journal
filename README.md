@@ -36,4 +36,16 @@ p {<br>
 }<br>
       < / style ></p>
   
+      
+  <h7>If you only want some PG centered, create <strong>style class</strong></h7>
+  
+      
+ <p>
+   <style><br>
+.center {<br>
+ text-align: center<br>
+}<br>
+   </style></p>
+      
+      
 
